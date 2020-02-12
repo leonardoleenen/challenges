@@ -1,0 +1,41 @@
+# Request
+
+Build a webapp that can display an organization structure. You must use React as the base
+framework but you can use any toolkitforthe UI components. We would like to be impressed by your CS
+skills so please do not use a library to go through the employees to be displayed (you can use a UI library
+to draw each employee,though)
+
+Your app should display in a way thatis clear and intuitive the organizational structure partially and
+navigable up to the fully expanded structure.
+Yes,thatʼs allthe instructions weʼre going to give you,the restis entirely up to you.
+
+# What is important / evaluation criteria
+* How well your solution solves the problem, including performance (try notto make many requests to
+the api, as less as possible, but also avoid preloading all ofthem). Will it work with more than a couple
+of dozens employees? Will it work with anAPI with 100k employees?
+* Sense of design
+* The architecture of your solution,the overall picture.
+* Is it easy to install and run.
+
+# How To Install and Run? 
+```bash
+npm install
+npm run dev
+```
+
+That's all. 
+
+# How to Run Test? 
+```bash
+npm run test
+```
+
+# How to build new CSS
+```bash 
+npm run tailwind:generate:css
+```
+
+# How has the development process been?
+
+There is a few videos that show step by step how has the development process been.
+
