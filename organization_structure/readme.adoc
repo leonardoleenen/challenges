@@ -38,4 +38,10 @@ npm run tailwind:generate:css
 # How has the development process been?
 
 There is a few videos that show step by step how has the development process been.
+* Scaffold - https://www.loom.com/share/ed55e79c2a0e46bcad25f20f1d8f5bf8
+* Services and Business Logic: https://www.loom.com/share/865553b5346840f8b69d1ead0bc0a639
+* TailWind and CSS:  https://www.loom.com/share/62c1fdf0e28c45efb5f1019e235379f4 
+* Unittest : https://www.loom.com/share/9bb934f9488f424789d219a1238a33dc
+
+
 
